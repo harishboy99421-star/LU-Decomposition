@@ -13,6 +13,7 @@ To write a program to find the LU Decomposition of a matrix.
 3. LU Decomposition of a matrix is written and verified using python programming
    
 4.Use lu(),lu_solve(),lu_factor() to get the solutions
+
 5.End the program
 
 ## Program:
